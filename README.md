@@ -84,9 +84,3 @@ Specialized in real-time data pipelines, analytics, and applied machine learning
 - 🌐 [GitHub](https://github.com/lguertle)
 - 📫 [LinkedIn](https://www.linkedin.com/in/laurent-gurtler-2z4/)
 
-
-
-\- 🌐 \[GitHub](https://github.com/lguertle)
-
-\- 📫 \[LinkedIn](https://www.linkedin.com/in/laurent-gurtler-2z4/)
-
