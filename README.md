@@ -21,6 +21,10 @@ This project is a real-time data pipeline for monitoring Twitch streamers, lever
 - 🔁 **Delta Lake + Databricks Integration**  
   Designed to run as a modular streaming pipeline within Databricks notebooks using Delta tables, with append-only logs for historical tracking.
 
+- 📈 **Live Power BI Integration**  
+  Delta tables are automatically connected to Power BI for dynamic dashboards, enabling real-time insights and visual exploration of stream performance.
+
+
 ---
 
 ## ⚡ Why Databricks?
@@ -31,6 +35,7 @@ This project uses **Databricks** as the central platform for managing the full l
 - 🔄 **Modular Pipeline**: The workflow is broken down into **bronze**, **silver**, and **gold** notebook stages.
 - 🧱 **Delta Live Tables (DLT)**: Easily adaptable to Delta Live Tables for production-ready data workflows.
 - 🧠 **ML-Ready Foundation**: Creates a clean and enriched dataset for downstream analytics, dashboarding, or machine learning models.
+- 📊 **Seamless Power BI Integration**: Final gold-layer Delta tables are connected to Power BI for live, auto-refreshing reports.
 
 ---
 
